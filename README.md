@@ -6,7 +6,9 @@ Super simple stock market application.
 - Maven 3
 
 ##Get
+```
 git clone https://github.com/vezhlys/SuperSimpleStockMarket.git
+```
 
 ##Run
 Change directory
