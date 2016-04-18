@@ -5,8 +5,15 @@ Super simple stock market application.
 - JDK 1.8
 - Maven 3
 
+##Get
+git clone https://github.com/vezhlys/SuperSimpleStockMarket.git
+
 ##Run
-Just run from command line:
+Change directory
+```
+cd SuperSimpleStockMarket
+```
+Run from command line:
 ```
 mvn install exec:java
 ```
